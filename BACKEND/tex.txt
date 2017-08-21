@@ -1,0 +1,16 @@
+[{"_id":"59956fa274fece078f3a2041","uid":11,"dis":"123D"},{"_id":"59956fa674fece078f3a2042","uid":12,"dis":"568"}]
+
+
+
+
+/*  fs.writeFile("text.txt", result, function(err) {
+    if(err) {
+        return console.log(err);
+    }
+
+    console.log("The file was saved!");
+}); 
+
+jsonfile.writeFile(file, result, function (err) {
+  console.error(err)
+});*/

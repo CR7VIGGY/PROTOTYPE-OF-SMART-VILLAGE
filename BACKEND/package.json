@@ -1,0 +1,24 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "isjvn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "jsonfile": "^3.0.1",
+    "mongodb": "^2.2.31",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
